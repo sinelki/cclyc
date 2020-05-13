@@ -1,9 +1,9 @@
 [submodule "providence_annotation_backend"]
 	path = providence_annotation_backend
-	url = git@github.com:sinelki/providence_annotation_backend.git
+	url = https://github.com/sinelki/providence_annotation_backend.git
 [submodule "providence_annotation_frontend"]
 	path = providence_annotation_frontend
-	url = git@github.com:sinelki/providence_annotation_frontend.git
+	url = https://github.com/sinelki/providence_annotation_frontend.git
 [submodule "providence_data_pipeline"]
 	path = providence_data_pipeline
-	url = git@github.com:sinelki/providence_data_pipeline.git
+	url = https://github.com/sinelki/providence_data_pipeline.git
