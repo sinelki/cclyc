@@ -1,7 +1,7 @@
-# Comparison Class Learning in Young Children (CCLYC)
+# Cues to Comparison Classes in Child-directed Language
 
 This repo contains all the software and data used in the MIT Master of Engineering thesis
-[Comparison Class Learning in Young Children](http://library.mit.edu/F/PQKXE2YAGSC2MEUE92G1NESLJHRCHALE3ABDPS867K4HJBR97F-00503?func=file&amp=&amp=&amp=&amp=&amp=&amp=&file%5Fname=find-b&local%5Fbase=THESES2).
+[Cues to Comparison Class in Child-directed Language](http://library.mit.edu/F/PQKXE2YAGSC2MEUE92G1NESLJHRCHALE3ABDPS867K4HJBR97F-00503?func=file&amp=&amp=&amp=&amp=&amp=&amp=&file%5Fname=find-b&local%5Fbase=THESES2).
 
 ## Getting Started <a href=”getting-started”></a>
 This repo uses submodules to provide a clean separation of each component. This allows each
